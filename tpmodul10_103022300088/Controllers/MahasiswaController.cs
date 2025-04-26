@@ -10,8 +10,12 @@ namespace tpmodul10_103022300088.Controllers
         // Simulasi data statis (in-memory)
         private static List<Mahasiswa> mahasiswaList = new List<Mahasiswa>
         {
-            new Mahasiswa { Nama = "LeBron James", Nim = "1302000001" },
-            new Mahasiswa { Nama = "Stephen Curry", Nim = "1302000002" }
+            new Mahasiswa { Nama = "Gusti Agung Raka Darma Putra Kepakisan", Nim = "103022300088" },
+            new Mahasiswa { Nama = "Edsel Septa Haryanto", Nim = "103022300016" },
+            new Mahasiswa { Nama = "Abdul Aziz Saepurohmat", Nim = "103022300092" },
+            new Mahasiswa { Nama = "Deru Khairan Djuharianto", Nim = "103022300101" },
+            new Mahasiswa { Nama = "Reza Indra Maulana", Nim = "103022300109" },
+            new Mahasiswa { Nama = "Tio Funny Tinambunan", Nim = "103022330036" },
         };
 
         // GET: /api/mahasiswa
